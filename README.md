@@ -1,6 +1,5 @@
 My first JS task
 
-used skills:
-simple matematical operators and variables
+used skills - simple mathematical operators and variables
 
 Difficulties - None
